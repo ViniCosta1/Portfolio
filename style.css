@@ -1,0 +1,14 @@
+main {
+    background-color: rgb(98, 97, 112);
+    color: rgb(240, 240, 240);
+}
+
+header {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.textSize {
+    font-size: 20pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
