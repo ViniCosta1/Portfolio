@@ -12,3 +12,8 @@ header {
     font-size: 20pt;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.imgCard {
+    width: 200px;
+    align-content: center;
+}
