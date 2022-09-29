@@ -1,3 +1,7 @@
+body {
+    overflow-x: hidden;
+}
+
 main {
     background-color: rgb(98, 97, 112);
     color: rgb(240, 240, 240);
