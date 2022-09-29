@@ -21,3 +21,7 @@ header {
     width: 200px;
     align-content: center;
 }
+
+.colorBG {
+    background-color: rgb(81, 80, 94);
+}
